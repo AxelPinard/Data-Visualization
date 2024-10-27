@@ -1,0 +1,250 @@
+Country Name	Country Code	Series Name	Series Code	2015 [YR2015]	2016 [YR2016]	2017 [YR2017]	2018 [YR2018]	2019 [YR2019]	2020 [YR2020]	2021 [YR2021]	2022 [YR2022]	2023 [YR2023]
+United States	USA	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+United States	USA	Lending interest rate (%)	FR.INR.LEND	3.26	3.51166666666667	4.09666666666667	4.90416666666667	5.2825	3.54416666666667	3.25	..	..
+United States	USA	Real interest rate (%)	FR.INR.RINR	2.31051464059837	2.53723229857104	2.26529638013973	2.55474987510739	3.54449745673519	2.19456642346184	-1.27623331138459	..	..
+United States	USA	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Albania	ALB	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	6.48416666666667	5.90333333333334	5.45333333333333	5.18083333333333	5.78333333333333	5.70583333333333	5.54333333333334	5.77583333333334	5.00416666666667
+Albania	ALB	Lending interest rate (%)	FR.INR.LEND	7.8775	6.73416666666667	6.22	5.9325	6.27583333333333	6.12083333333333	6.02166666666667	6.50666666666667	6.35166666666667
+Albania	ALB	Real interest rate (%)	FR.INR.RINR	7.27249242163997	7.41372325944537	4.70106853289222	4.39481296172994	4.95650401841986	5.38676975341908	2.48151251479627	-3.05767603602252	1.72025903681115
+Albania	ALB	Deposit interest rate (%)	FR.INR.DPST	1.39333333333333	0.830833333333333	0.766666666666667	0.751666666666667	0.4925	0.415	0.478333333333333	0.730833333333333	1.3475
+Andorra	AND	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Andorra	AND	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Andorra	AND	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Andorra	AND	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Armenia	ARM	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	3.4421711434095	5.7410489146788	5.39266669635978	4.12931133344314	3.65503785000689	3.50195095111197	3.52038219760139	3.24521114428292	4.02257380704685
+Armenia	ARM	Lending interest rate (%)	FR.INR.LEND	17.5903303177529	17.3567061146333	14.4060016758329	12.793041927804	12.1419889531682	11.6198425058429	11.7619087610202	11.7194139566373	12.3852390680976
+Armenia	ARM	Real interest rate (%)	FR.INR.RINR	16.1800096730379	17.0423595080455	11.9973399575166	9.73397739946579	10.9595785635957	9.63911034033596	4.5475881609954	3.45759847722085	9.29001134513429
+Armenia	ARM	Deposit interest rate (%)	FR.INR.DPST	14.1481591743434	11.6156571999545	9.01333497947312	8.66373059436086	8.48695110316131	8.11789155473093	8.24152656341881	8.47420281235438	8.36266526105075
+Austria	AUT	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Austria	AUT	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Austria	AUT	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Austria	AUT	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Azerbaijan	AZE	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	8.53583333333337	8.64233644907122	8.11416666666667	7.1725	7.58704850785953	8.48749424167901	7.71833324707993	5.61410674888091	5.31192049946286
+Azerbaijan	AZE	Lending interest rate (%)	FR.INR.LEND	17.5341666666667	16.3752267159245	16.5425	17.4483333333333	17.2812151745262	17.1782012225111	16.4259638117337	14.5897924973182	13.9648868370787
+Azerbaijan	AZE	Real interest rate (%)	FR.INR.RINR	28.9454418522707	1.48583383570765	0.318577982868449	4.691769977505	17.5649086189187	26.5368212837468	-4.24616359058951	-16.5226749771746	25.5211682288753
+Azerbaijan	AZE	Deposit interest rate (%)	FR.INR.DPST	8.99833333333333	7.73289026685328	8.42833333333333	10.2758333333333	9.69416666666667	8.69070698083209	8.70763056465377	8.97568574843729	8.65296633761584
+Belarus	BLR	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	-1.825	-0.241666666666699	2.65960328547397	2.775	2.51583333333333	2.42416666666667	1.76333333333333	4.29499999999997	5.11001895110608
+Belarus	BLR	Lending interest rate (%)	FR.INR.LEND	18.0833333333333	14.4	9.65871241633364	8.69583333333333	9.02333333333333	9.0325	10.1175	12.7158333333333	9.9623073222544
+Belarus	BLR	Real interest rate (%)	FR.INR.RINR	1.77558738411221	5.59252290950144	0.952995472556903	-3.07064988545488	0.411160006531488	-2.54329017531414	-4.51667137670177	-1.88784705215405	2.4160561961383
+Belarus	BLR	Deposit interest rate (%)	FR.INR.DPST	19.9083333333333	14.6416666666667	6.99910913085967	5.92083333333333	6.5075	6.60833333333333	8.35416666666667	8.42083333333333	4.85228837114832
+Belgium	BEL	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Belgium	BEL	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Belgium	BEL	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Belgium	BEL	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Bermuda	BMU	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Bermuda	BMU	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Bermuda	BMU	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Bermuda	BMU	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Bosnia and Herzegovina	BIH	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	3.72922447158094	3.65560133051606	3.17059185653536	2.80854564611638	2.37433451346327	2.2760725515021	2.62488595164006	2.71944672686647	2.93614522776443
+Bosnia and Herzegovina	BIH	Lending interest rate (%)	FR.INR.LEND	5.78888799043185	5.23816683778765	4.37958143265647	3.79028136918822	3.28722715810128	3.07187413211574	3.20129279505403	3.36081655916726	4.11153155413122
+Bosnia and Herzegovina	BIH	Real interest rate (%)	FR.INR.RINR	4.36356276459313	3.85348216269258	2.55542095381237	0.971534856173147	0.796048107245461	3.00786242008792	-1.67991069986102	-7.55577424754142	-1.34460690322839
+Bosnia and Herzegovina	BIH	Deposit interest rate (%)	FR.INR.DPST	2.05966351885091	1.58256550727159	1.20898957612111	0.981735723071837	0.912892644638007	0.795801580613642	0.576406843413973	0.641369832300789	1.17538632636679
+Bulgaria	BGR	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	6.834975	6.21963333333334	5.39325	4.93576666666667	4.52424166666666	4.323325	4.10041666666666	3.726075	4.335875
+Bulgaria	BGR	Lending interest rate (%)	FR.INR.LEND	7.44886666666667	6.39301666666667	5.43955833333333	4.963225	4.54920833333333	4.33663333333333	4.11618333333333	3.74595833333333	4.43335833333333
+Bulgaria	BGR	Real interest rate (%)	FR.INR.RINR	4.37223831935397	2.97072316268845	0.59767121350457	0.69901881299073	-0.65569469327229	0.073400700051707	-2.81730779371093	-10.7038975766319	-2.8622108729896
+Bulgaria	BGR	Deposit interest rate (%)	FR.INR.DPST	0.613891666666667	0.173383333333333	0.0463083333333333	0.0274583333333333	0.0249666666666667	0.0133083333333333	0.0157666666666667	0.0198833333333333	0.0974833333333333
+Canada	CAN	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	2.7	2.6	2.6	..	..	..	..	..	..
+Canada	CAN	Lending interest rate (%)	FR.INR.LEND	2.775	2.7	2.7	..	..	..	..	..	..
+Canada	CAN	Real interest rate (%)	FR.INR.RINR	3.67453345002429	1.96890523916422	0.12575223729819	..	..	..	..	..	..
+Canada	CAN	Deposit interest rate (%)	FR.INR.DPST	0.075	0.1	0.1	..	..	..	..	..	..
+Channel Islands	CHI	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Channel Islands	CHI	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Channel Islands	CHI	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Channel Islands	CHI	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Croatia	HRV	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Croatia	HRV	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Croatia	HRV	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Croatia	HRV	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Cyprus	CYP	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Cyprus	CYP	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Cyprus	CYP	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Cyprus	CYP	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Czechia	CZE	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	3.75320048345524	3.53413293915113	3.3146190446612	3.26571951083026	3.29747437417453	3.0407488585235	2.96872366774118	2.82732296829417	2.27112868259324
+Czechia	CZE	Lending interest rate (%)	FR.INR.LEND	4.28253332923937	3.9072462757748	3.58974364323778	3.54161587741081	3.68603218349692	3.34430704292427	3.20212533339961	4.22500917823384	4.68269404004226
+Czechia	CZE	Real interest rate (%)	FR.INR.RINR	3.25792951109147	2.73458177446628	2.25334930605008	0.949658716637955	-0.195325158058853	-0.933771769719319	-0.121636429790334	-3.98198719711668	-3.56741304331465
+Czechia	CZE	Deposit interest rate (%)	FR.INR.DPST	0.52933284578413	0.373113336623673	0.275124598576577	0.275896366580548	0.388557809322386	0.303558184400765	0.233401665658425	1.39768620993967	2.41156535744902
+Denmark	DNK	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Denmark	DNK	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Denmark	DNK	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Denmark	DNK	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Estonia	EST	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Estonia	EST	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Estonia	EST	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Estonia	EST	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Faroe Islands	FRO	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Faroe Islands	FRO	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Faroe Islands	FRO	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Faroe Islands	FRO	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Finland	FIN	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Finland	FIN	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Finland	FIN	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Finland	FIN	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+France	FRA	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+France	FRA	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+France	FRA	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+France	FRA	Deposit interest rate (%)	FR.INR.DPST	0.895833333333333	0.7575	0.791666666666667	..	..	..	..	..	..
+Georgia	GEO	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	3.57826857182348	2.68223523675309	1.83285932779999	2.2867916666667	2.109525	1.5785916666667	2.1987583333334	2.0184166666667	1.922925
+Georgia	GEO	Lending interest rate (%)	FR.INR.LEND	12.4884754630803	12.6209166666667	11.4853833333333	11.1193916666667	10.8164	11.8008	12.5104916666667	13.655325	13.5107
+Georgia	GEO	Real interest rate (%)	FR.INR.RINR	6.7481759122845	10.1159781025291	3.66225712829471	7.37748362882288	6.55865669781933	4.63543510413947	2.06923029008176	5.10459321971571	10.7663702088581
+Georgia	GEO	Deposit interest rate (%)	FR.INR.DPST	8.91020689125682	9.93868142991361	9.65252400553331	8.8326	8.706875	10.2222083333333	10.3117333333333	11.6369083333333	11.587775
+Germany	DEU	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Germany	DEU	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Germany	DEU	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Germany	DEU	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Gibraltar	GIB	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Gibraltar	GIB	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Gibraltar	GIB	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Gibraltar	GIB	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Greece	GRC	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Greece	GRC	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Greece	GRC	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Greece	GRC	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Greenland	GRL	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Greenland	GRL	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Greenland	GRL	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Greenland	GRL	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Hungary	HUN	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	1.78998739436667	1.50811788551666	1.361047065975	1.40664516340833	1.68766965223333	1.49054335871667	1.950489643	2.29175461815837	2.184515733825
+Hungary	HUN	Lending interest rate (%)	FR.INR.LEND	2.90249069046667	2.08907111213333	1.48114342166667	1.47096759300833	1.79243378790833	1.95768913324167	2.9645376181	10.6554314535917	15.3020823180167
+Hungary	HUN	Real interest rate (%)	FR.INR.RINR	0.123325582574453	0.758582251116954	-2.44984029178709	-3.2203535626322	-2.85593422125175	-4.16562578727742	-3.26450115808617	-3.1304103307255	0.481988651849058
+Hungary	HUN	Deposit interest rate (%)	FR.INR.DPST	1.1125032961	0.580953226616667	0.120096355691667	0.0643224296	0.104764135675	0.467145774525	1.0140479751	8.36367683543333	13.1175665841917
+Iceland	ISL	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Iceland	ISL	Lending interest rate (%)	FR.INR.LEND	7.61	8.23666666666667	7.25583333333333	6.955	6.95	5.75871241217229	5.40415749831761	7.59730075370325	11.5309721139305
+Iceland	ISL	Real interest rate (%)	FR.INR.RINR	1.46667925783666	5.84368814136005	6.26018300940988	4.21253038766199	2.38684774572715	1.67553661644041	-0.904005782066062	-1.1534939611993	5.31646443908259
+Iceland	ISL	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Ireland	IRL	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Ireland	IRL	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Ireland	IRL	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Ireland	IRL	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Isle of Man	IMN	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Isle of Man	IMN	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Isle of Man	IMN	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Isle of Man	IMN	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Italy	ITA	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Italy	ITA	Lending interest rate (%)	FR.INR.LEND	4.12925	3.49616666666667	3.00083333333333	2.68	2.6025	2.32833333333333	2.02591666666667	2.264455	4.89248125
+Italy	ITA	Real interest rate (%)	FR.INR.RINR	3.16786623371122	2.33532587673561	2.25808863862564	1.59483303043837	1.64891714021908	0.737515246016204	0.758006670454846	-1.29349992436979	-0.361661992063661
+Italy	ITA	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Kazakhstan	KAZ	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Kazakhstan	KAZ	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Kazakhstan	KAZ	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Kazakhstan	KAZ	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Kosovo	XKX	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	7.41583333333333	6.43774166666667	5.797575	5.34419166666666	..	..	..	..	..
+Kosovo	XKX	Lending interest rate (%)	FR.INR.LEND	8.32	7.4468	6.8327	6.65405833333333	..	..	..	..	..
+Kosovo	XKX	Real interest rate (%)	FR.INR.RINR	7.66556492106195	6.61599044931985	6.36467506803805	5.07900884074454	..	..	..	..	..
+Kosovo	XKX	Deposit interest rate (%)	FR.INR.DPST	0.904166666666667	1.00905833333333	1.035125	1.30986666666667	..	..	..	..	..
+Kyrgyz Republic	KGZ	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	21.1717439371826	22.1103706167147	17.0659903120695	17.0935519171733	17.4529345038075	15.6677649699086	15.3343674005371	17.262346065976	17.8067540619327
+Kyrgyz Republic	KGZ	Lending interest rate (%)	FR.INR.LEND	23.6301125786122	24.5318680766991	19.8191860496034	19.5131820149386	18.9967536717482	17.0357659286485	16.6226604984585	18.6649646194159	19.1058652071561
+Kyrgyz Republic	KGZ	Real interest rate (%)	FR.INR.RINR	19.5333606473613	17.4268792752423	12.6891774226794	15.5303370528364	8.36475000741929	11.1026768503892	0.543018692651354	-0.829301474662546	5.0170494227889
+Kyrgyz Republic	KGZ	Deposit interest rate (%)	FR.INR.DPST	2.45836864142959	2.42149745998442	2.75319573753385	2.41963009776535	1.54381916794072	1.36800095873995	1.28829309792138	1.40261855343995	1.29911114522338
+Latvia	LVA	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Latvia	LVA	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Latvia	LVA	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Latvia	LVA	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Liechtenstein	LIE	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Liechtenstein	LIE	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Liechtenstein	LIE	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Liechtenstein	LIE	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Lithuania	LTU	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Lithuania	LTU	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Lithuania	LTU	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Lithuania	LTU	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Luxembourg	LUX	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Luxembourg	LUX	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Luxembourg	LUX	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Luxembourg	LUX	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Moldova	MDA	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	2.1785352421483	3.550009855327	4.59010100955181	4.35666666666667	3.64583333333333	4.35083333333333	3.94166666666667	2.48083333333337	5.36553811840753
+Moldova	MDA	Lending interest rate (%)	FR.INR.LEND	14.1492441706685	14.2760252993571	10.3627060330686	8.8475	8.25	8.18	7.39666666666667	11.7966666666667	12.3323346360739
+Moldova	MDA	Real interest rate (%)	FR.INR.RINR	2.30781538967562	10.3573741791746	3.86837094456251	5.46110987490281	2.75105922952457	2.46743108413222	0.954053040073207	-6.25269320835054	3.33363793902442
+Moldova	MDA	Deposit interest rate (%)	FR.INR.DPST	11.9707089285202	10.7260154440301	5.77260502351679	4.49083333333333	4.60416666666667	3.82916666666667	3.455	9.31583333333333	6.96679651766637
+Monaco	MCO	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Monaco	MCO	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Monaco	MCO	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Monaco	MCO	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Montenegro	MNE	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	7.47525	6.9064	6.3175	5.92095	5.71455	5.50211666666667	5.389475	5.34999166666666	6.07723333333333
+Montenegro	MNE	Lending interest rate (%)	FR.INR.LEND	8.93333333333333	7.97166666666667	7.19666666666667	6.52916666666667	6.175	5.90666666666667	5.76083333333333	5.63833333333333	6.345
+Montenegro	MNE	Real interest rate (%)	FR.INR.RINR	6.56797930972674	2.73127367909589	3.24747915936112	3.1998303307668	4.07053896252694	6.09297220318207	0.987900164675139	-5.97834502982153	-2.48724955460564
+Montenegro	MNE	Deposit interest rate (%)	FR.INR.DPST	1.45808333333333	1.06526666666667	0.879166666666667	0.608216666666667	0.46045	0.40455	0.371358333333333	0.288341666666667	0.267766666666667
+Netherlands	NLD	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Netherlands	NLD	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Netherlands	NLD	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Netherlands	NLD	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+North Macedonia	MKD	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	4.55599160479176	4.51447278818233	4.39117143513192	4.06715452337945	3.73623782123024	3.71885742744036	3.67252681422047	3.5629456010577	3.62688461840031
+North Macedonia	MKD	Lending interest rate (%)	FR.INR.LEND	7.45627705916539	7.0175977722394	6.60665710643843	6.10691833969552	5.60936382915275	5.193220791087	4.85796763215591	4.63306721882146	5.44084059566623
+North Macedonia	MKD	Real interest rate (%)	FR.INR.RINR	5.3457581796468	3.43336996492373	3.69588556406759	2.09837749145698	4.70038784902453	3.76716860112634	0.54891828545638	-2.85670442321869	1.77587132919616
+North Macedonia	MKD	Deposit interest rate (%)	FR.INR.DPST	2.90028545437363	2.50312498405707	2.21548567130651	2.03976381631607	1.87312600792251	1.47436336364664	1.18544081793544	1.07012161776376	1.81395597726592
+Norway	NOR	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	2.18666666666667	2.30833333333333	2.2825	2.195	2.3075	2.1	1.9725	2.36	2.91416666666666
+Norway	NOR	Lending interest rate (%)	FR.INR.LEND	3.5	3.07	3.00583333333333	2.92583333333333	3.23583333333333	2.6975	2.27416666666667	3.24333333333333	5.30833333333333
+Norway	NOR	Real interest rate (%)	FR.INR.RINR	6.48637648241762	4.74390944581817	-1.03296137737101	-3.57599603018969	3.80517087143277	5.34941941734859	-14.9228767781215	-19.4429902739663	17.8110689027763
+Norway	NOR	Deposit interest rate (%)	FR.INR.DPST	1.31333333333333	0.761666666666667	0.723333333333333	0.730833333333333	0.928333333333333	0.5975	0.301666666666667	0.883333333333333	2.39416666666667
+Poland	POL	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Poland	POL	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Poland	POL	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Poland	POL	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Portugal	PRT	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Portugal	PRT	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Portugal	PRT	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Portugal	PRT	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Romania	ROU	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	4.87916666666667	4.59583333333334	4.67684541385257	5.50367633376446	5.37583333333334	4.55833040329502	4.0333579700417	3.57153501799787	2.88424371849741
+Romania	ROU	Lending interest rate (%)	FR.INR.LEND	6.7675	5.70916666666667	5.56451674276812	6.80820228932061	7.16166666666667	6.4864012282897	5.61349905718721	7.75709430926468	9.32096121452692
+Romania	ROU	Real interest rate (%)	FR.INR.RINR	3.39200509428436	3.00900520173944	0.871983736444823	0.561074217624024	0.33363664240598	2.28325970601718	0.159322304046039	-4.80911186714517	-2.53569785290833
+Romania	ROU	Deposit interest rate (%)	FR.INR.DPST	1.88833333333333	1.11333333333333	0.887671328915552	1.30452595555615	1.78583333333333	1.92807082499468	1.58014108714551	4.18555929126681	6.43671749602951
+Russian Federation	RUS	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	6.52083333333337	5.62916666666663	4.69916666666667	3.5025	3.34916666666666	3.00666666666666	3.39275	3.85750000000003	4.05416666666667
+Russian Federation	RUS	Lending interest rate (%)	FR.INR.LEND	15.7166666666667	12.5983333333333	10.56	8.86666666666667	8.75333333333333	6.77583333333333	7.18108333333333	11.4591666666667	11.6225
+Russian Federation	RUS	Real interest rate (%)	FR.INR.RINR	7.89459357479114	9.48435447263491	4.94560423099718	-1.02848259453331	5.31670923072754	5.8252621205664	-10.2423105030022	-4.50335865315288	4.24838463209547
+Russian Federation	RUS	Deposit interest rate (%)	FR.INR.DPST	9.19583333333333	6.96916666666667	5.86083333333333	5.36416666666667	5.40416666666667	3.76916666666667	3.78833333333333	7.60166666666667	7.56833333333333
+San Marino	SMR	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	0.0556002505147801	1.13703333333334	3.00126666666667	2.99665	2.97090833333334	2.961025	2.92035	3.18049166666667	3.63349166666667
+San Marino	SMR	Lending interest rate (%)	FR.INR.LEND	2.48961433088329	3.02186666666667	4.06655	4.163075	3.98499166666667	3.73390833333333	3.5323	3.80209166666667	5.634625
+San Marino	SMR	Real interest rate (%)	FR.INR.RINR	3.25650061939288	1.6830011621043	2.2833866080775	2.05633015323236	3.04307475608719	3.37769282558811	-3.19050287974097	..	..
+San Marino	SMR	Deposit interest rate (%)	FR.INR.DPST	2.43401408036851	1.88483333333333	1.06528333333333	1.166425	1.01408333333333	0.772883333333333	0.61195	0.6216	2.00113333333333
+Serbia	SRB	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Serbia	SRB	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Serbia	SRB	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Serbia	SRB	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Slovak Republic	SVK	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Slovak Republic	SVK	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Slovak Republic	SVK	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Slovak Republic	SVK	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Slovenia	SVN	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Slovenia	SVN	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Slovenia	SVN	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Slovenia	SVN	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Spain	ESP	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Spain	ESP	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Spain	ESP	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Spain	ESP	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Sweden	SWE	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Sweden	SWE	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Sweden	SWE	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Sweden	SWE	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Switzerland	CHE	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	2.82333333333333	2.8475	2.89919913916666	2.94324106916666	2.98400407666667	3.01850411	3.05838801666667	2.79897989333333	1.77207040916666
+Switzerland	CHE	Lending interest rate (%)	FR.INR.LEND	2.68083333333333	2.64666666666667	2.62743867833333	2.62742559333333	2.63292318	2.63484670416667	2.63985731416667	2.64672373583333	2.86414745583333
+Switzerland	CHE	Real interest rate (%)	FR.INR.RINR	3.99644754248307	3.24890887051055	3.00636739533907	1.84900465333685	2.73966471699439	3.35750961859024	1.37651137331578	0.145920367675993	1.82218673744216
+Switzerland	CHE	Deposit interest rate (%)	FR.INR.DPST	-0.1425	-0.200833333333333	-0.271760460833333	-0.315815475833333	-0.351080896666667	-0.383657405833333	-0.4185307025	-0.1522561575	1.09207704666667
+Tajikistan	TJK	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	21.6100637080395	21.4097320648059	25.9671006582765	23.3516814220709	18.3745239755358	..	..	..	..
+Tajikistan	TJK	Lending interest rate (%)	FR.INR.LEND	25.8362601612347	24.9431399980747	29.6467008842335	27.1887964575151	23.5497072150821	..	..	..	..
+Tajikistan	TJK	Real interest rate (%)	FR.INR.RINR	17.7511693755864	24.270353035943	18.0694406754277	24.09604073384	19.1889598699904	..	..	..	..
+Tajikistan	TJK	Deposit interest rate (%)	FR.INR.DPST	4.22619645319521	3.53340793326882	3.67960022595704	3.83711503544425	5.17518323954627	..	..	..	..
+Turkiye	TUR	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Turkiye	TUR	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Turkiye	TUR	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Turkiye	TUR	Deposit interest rate (%)	FR.INR.DPST	14.9166666666667	14.61	15.2883333333333	23.2833333333333	25.4091666666667	13.3566666666667	20.7	27.0408333333333	51.325
+Turkmenistan	TKM	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+Turkmenistan	TKM	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+Turkmenistan	TKM	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+Turkmenistan	TKM	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Ukraine	UKR	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	8.8124583333334	7.7514083333334	7.25656666666667	7.2271166666667	6.9293916666666	8.20650833333333	8.65716666666663	11.1937416666667	9.7710583333334
+Ukraine	UKR	Lending interest rate (%)	FR.INR.LEND	21.8229416666667	19.2371666666667	16.383525	19.004875	19.8217083333333	14.2924	13.2921083333333	18.6094166666667	22.1117666666667
+Ukraine	UKR	Real interest rate (%)	FR.INR.RINR	-12.2829289815693	1.82756968752031	-4.68048423181966	3.12512181706498	10.6936587686836	3.62433269101717	-9.22452263882149	-12.0860131441778	3.04108966244805
+Ukraine	UKR	Deposit interest rate (%)	FR.INR.DPST	13.0104833333333	11.4857583333333	9.12695833333333	11.7777583333333	12.8923166666667	6.08589166666667	4.63494166666667	7.415675	12.3407083333333
+United Kingdom	GBR	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	..	..	..	..	..	..	..	..	..
+United Kingdom	GBR	Lending interest rate (%)	FR.INR.LEND	..	..	..	..	..	..	..	..	..
+United Kingdom	GBR	Real interest rate (%)	FR.INR.RINR	..	..	..	..	..	..	..	..	..
+United Kingdom	GBR	Deposit interest rate (%)	FR.INR.DPST	..	..	..	..	..	..	..	..	..
+Uzbekistan	UZB	Interest rate spread (lending rate minus deposit rate, %)	FR.INR.LNDP	0.1860216391833	-1.2271550088955	0.703891150391399	5.710120758305	7.4500863041435	6.0300633398173	5.1053302086613	4.020168228468	4.1329918492036
+Uzbekistan	UZB	Lending interest rate (%)	FR.INR.LEND	13.773762892753	13.5239667915277	15.3767768819838	19.9656221631193	23.6060674782463	22.3410510306587	21.4230858508675	21.7461154561416	22.150086026479
+Uzbekistan	UZB	Real interest rate (%)	FR.INR.RINR	2.96202955011222	4.217004279456	-3.09506271253072	-5.48112348356238	4.91552322963973	9.77960253525401	6.93932888174582	5.95003195856163	8.83608427149897
+Uzbekistan	UZB	Deposit interest rate (%)	FR.INR.DPST	13.5877412535697	14.7511218004232	14.6728857315924	14.2555014048143	16.1559811741028	16.3109876908414	16.3177556422062	17.7259472276736	18.0170941772754
+
+
+
+Data from database: World Development Indicators
+Last Updated: 10/24/2024
