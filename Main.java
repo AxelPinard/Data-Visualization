@@ -9,6 +9,7 @@ public class Main {
         //Gotta make sure we don't have magic variables :)
         String FileName = "Data";
         int CountryNameIndex = 0;
+        int FirstIndex = 0;
         int SeriesNameIndex = 2;
         int DataYearIndexStart = 4;
         int DatayearIndexEnd = 12;
@@ -32,7 +33,8 @@ public class Main {
         //We use a stream to parse through our word list to extract the specific fields we want
         //Since the fields are always in the same index we can just use their index positions to get what we want
         //IE. all Country Names are in the same index of word[x]
-        //For some reason we had to have a try/catch to get the for loop to work to get the list of Datayear info
+        //Had an issue with parsing armina (for some reason when I tab in the data file it dosnt pick up as a \t
+        //so we have an exception to make sure we get the last datapoint in.
         List<String> CountryNames = new ArrayList<>();
         List<String> SeriesNames = new ArrayList<>();
         List<List<String>> DataYearLists = new ArrayList<>();
@@ -45,9 +47,21 @@ public class Main {
                     list.add(w.get(i));
                 }
             } catch(IndexOutOfBoundsException e) {
-                System.out.println("Index out of bounds");
+                list.add(w.get(DataYearIndexStart -1));
             }
             DataYearLists.add(list);
         });
+
+
+        //Setting up records
+        List<IntrestData> IntrestDatalist = new ArrayList<>();
+        for(int i = FirstIndex; i < CountryNames.size(); i++) {
+            IntrestDatalist.add(new IntrestData(CountryNames.get(i), SeriesNames.get(i), DataYearLists.get(i)));
+        }
+
+        for (IntrestData jaja:IntrestDatalist) {
+            System.out.println(jaja.toString());
+        }
+
     }
 }
