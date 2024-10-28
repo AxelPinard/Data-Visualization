@@ -3,6 +3,7 @@ import javax.swing.event.TableModelListener;
 import javax.swing.table.TableModel;
 import java.io.FileReader;
 import java.util.ArrayList;
+import java.util.List;
 
 public class IntrestTableModel implements TableModel {
     int rowCount;
@@ -10,19 +11,25 @@ public class IntrestTableModel implements TableModel {
     final String[] columnNames = {"Country Name", "Series Name", "2015",
                                     "2016", "2017", "2018", "2019", "2020", "2021",
                                     "2022", "2023"};
-    final int[] viewColumns = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+    final int[] viewColumns = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
     ArrayList<TableModelListener> listeners;
     Object[][] data;
 
-    public IntrestTableModel(IntrestData data){
+    public IntrestTableModel(List<IntrestData> data2){
         columnCount = columnNames.length;
         listeners = new ArrayList<>();
-        try{
-            data = F
-        } catch (IDException e){
-            System.out.println("Error reading file");
+
+        data = new Object[data2.size()][10];
+
+        for(int i = 0; i <data2.size(); i++){
+                data[i][0] = data2.get(i).getCountryName();
+                data[i][1] = data2.get(i).getSeriesName();
+                for (int y = 0; y < data2.get(i).getDataYear().size()-1; y++) {
+                    data[i][y + 2] = data2.get(i).getDataYear().get(y);
+                }
         }
         rowCount = data.length;
+
     }
 
     @Override
@@ -37,7 +44,12 @@ public class IntrestTableModel implements TableModel {
     public boolean isCellEditable(int row, int column) {return false;}
     @Override
     public Object getValueAt(int row, int column) {
-        return data[row][viewColumns[column]];}
+        if (column > 9){ column = 9;}
+        if(data[row][column] != null) {
+            return data[row][column];
+        }
+            return data[0][0];
+    }
     @Override
     public void setValueAt(Object value, int row, int column) {}
     @Override
