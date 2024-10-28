@@ -7,4 +7,8 @@ public record IntrestData(String CountryName, String SeriesName, List<String> Da
         this.SeriesName = SeriesName;
         this.DataYear = DataYear;
     }
+
+    public String getCountryName() {return CountryName;}
+    public String getSeriesName() {return SeriesName;}
+    public List<String> getDataYear() {return DataYear;}
 }
