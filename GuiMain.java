@@ -15,7 +15,12 @@ public class GuiMain extends JPanel {
     public GuiMain(List<IntrestData> allofem) {
         setPreferredSize(new Dimension(1800, 1200));
         tablePanel = new TablePanel(new IntrestTableModel(allofem));
+
+       //PieChartPanel = new PieChartPanel(tablePanel);
+        //tablePanel.addActionListener(PieChartPanel);
+
         add(tablePanel);
+        //add(PieChartPanel)
     }
 
     public static void main(String[] args) throws IOException {
